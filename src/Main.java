@@ -7,6 +7,7 @@ public class Main {
 
         System.out.println("  ");
         System.out.println("Printout for HomeWork10 finished");
+        System.out.println("Изменения для коммита Домашки 10 в ветке HW10");
 
 
     }
